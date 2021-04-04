@@ -1,0 +1,50 @@
+ h1 {
+text-align: center;
+color: dimgrey;
+background-color: #f8ede3;
+}
+body h2 {
+    text-align: center;
+    border: lightsteelblue;
+    margin: 80px;
+}
+body{
+    
+
+    background-color: #f8ede3;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img {
+
+    align-items: center;
+    text-align: center;
+    display:inline-block;
+
+    margin-left: 350px;
+}
+
+header nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 250px;
+    font-size: 20px;
+}
+
+.head3 {
+    font-size: 20px;
+    text-align: center;
+    color:#798777;
+}
+.pra1{
+
+    text-align: center;
+    font-size: 15px;
+}
+ footer{
+     background-color: #bdd2b6;
+     text-align: center;
+     font-size: 15;
+     margin: 15px;
+
+ }
